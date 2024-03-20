@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="esquema.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="444.38651"
+     inkscape:cy="309.53195"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect570"
+       width="65.61338"
+       height="23.228094"
+       x="113.50636"
+       y="102.86829"
+       ry="4.0638542" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.3472px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       x="117.34379"
+       y="114.12656"
+       id="text574"><tspan
+         sodipodi:role="line"
+         id="tspan572"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="117.34379"
+         y="114.12656">PHP</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect558"
+       width="65.61338"
+       height="23.228094"
+       x="113.50636"
+       y="17.696686"
+       ry="4.0638542" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.3472px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       x="117.34379"
+       y="28.954956"
+       id="text562"><tspan
+         sodipodi:role="line"
+         id="tspan560"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="117.34379"
+         y="28.954956">css</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect502"
+       width="65.61338"
+       height="23.228094"
+       x="113.50636"
+       y="35.645374"
+       ry="4.0638542" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.3472px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       x="117.34379"
+       y="46.903645"
+       id="text506"><tspan
+         sodipodi:role="line"
+         id="tspan504"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="117.34379"
+         y="46.903645">html</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect234"
+       width="65.61338"
+       height="23.228094"
+       x="113.50636"
+       y="55.795319"
+       ry="4.0638542" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.3472px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       x="117.34379"
+       y="67.053589"
+       id="text398"><tspan
+         sodipodi:role="line"
+         id="tspan396"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="117.34379"
+         y="67.053589">js</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect564"
+       width="65.61338"
+       height="23.228094"
+       x="113.50636"
+       y="120.309"
+       ry="4.0638542" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.3472px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       x="117.34379"
+       y="131.56728"
+       id="text568"><tspan
+         sodipodi:role="line"
+         id="tspan566"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="117.34379"
+         y="131.56728">MySQL</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path628"
+       cx="147.23004"
+       cy="90.84407"
+       r="11.937572" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.2916px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#000000;stroke-width:0.83352;stroke-linecap:round;stroke-linejoin:round"
+       x="137.51506"
+       y="93.679588"
+       id="text632"><tspan
+         sodipodi:role="line"
+         id="tspan630"
+         style="fill:#000000;stroke:none;stroke-width:0.83352"
+         x="137.51506"
+         y="93.679588">json</tspan></text>
+  </g>
+</svg>
