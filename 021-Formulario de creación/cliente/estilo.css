@@ -1,0 +1,46 @@
+body,html{
+    padding:0px;
+    margin:0px;
+    font-family: sans-serif;
+    height:100%;
+    background-color:indigo;
+}
+header{
+    color:white;
+    padding:10px;
+}
+nav{
+    width:20%;
+    color:white;
+    float:left;
+    box-sizing: border-box;
+    padding:10px;
+    height:100%;
+}
+main{
+    background-color:snow;
+    color:darkslategray;
+    padding:10px;
+    height:100%;
+    width:80%;
+    float:right;
+    box-sizing: border-box;
+    border-radius:10px 0px 0px 0px;
+}
+nav button{
+    width:100%;
+    margin-bottom:10px;
+    border:none;
+    background:snow;
+    border-radius:40px;
+}
+table button{
+    width:100%;
+    border:none;
+    background:red;
+    border-radius:40px;
+    color:white;
+}
+table{
+    width:100%;
+}
